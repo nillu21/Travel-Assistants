@@ -25,5 +25,6 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### WARNING
+
+The node-modules folder isn't added due to containing too many files, which will not allow the code to work unless setting up a vue.js project on its own.
